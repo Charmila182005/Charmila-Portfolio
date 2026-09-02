@@ -34,7 +34,7 @@ I enjoy solving problems, debugging applications, learning new technologies, and
 | **Languages** | JavaScript, Python, Java, C       |
 | **Frontend**  | HTML5, CSS3, JavaScript, React.js |
 | **Backend**   | Node.js, Django, REST APIs        |
-| **Databases** | SQL, MySQL, PostgreSQL, MongoDB   |
+| **Databases** | SQL, MySQL                        |
 | **Tools**     | Git, GitHub                       |
 
 ## 🚀 Featured Projects
